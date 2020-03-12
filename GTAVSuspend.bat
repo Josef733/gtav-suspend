@@ -1,7 +1,7 @@
 suspend GTA5
 @echo.
 @echo GTAV Paused for 9 seconds. 
-timeout 9 /NOBREAK
+@timeout 9 /NOBREAK
 suspend -r GTA5
 @echo.
 @echo GTAV Resumed.
